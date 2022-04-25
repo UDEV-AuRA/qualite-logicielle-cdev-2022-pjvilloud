@@ -47,7 +47,6 @@ public class EmployeTest {
         Assertions.assertThat(nbAnneesAnciennete).isZero();
     }
 
-
     @Test
     public void testGetNbAnneesAncienneteDateEmbaucheNull(){
         //Given
